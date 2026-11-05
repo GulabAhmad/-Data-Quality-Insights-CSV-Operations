@@ -1,8 +1,8 @@
 # Sales Data Quality & CSV Operations
 
-Student name: Gulab Ahmad (confirm before submission)
-Training ID: **ADD YOUR TRAINING ID**
-GitHub repository: **ADD YOUR ACTUAL REPOSITORY URL**
+Student name: Gulab Ahmad
+Training ID: TRN-2026-000308
+GitHub repository: (https://github.com/GulabAhmad/-Data-Quality-Insights-CSV-Operations.git)
 
 ## Run
 
